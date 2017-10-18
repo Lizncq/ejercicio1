@@ -5,4 +5,4 @@ el siguiente proyecto contiene el ejercicio uno de la clase práctica.
 + HTML5
 + CSS3
 
-![Texto alternativo](Lizncq/ejercicio1)
+![Texto alternativo](https://github.com/Lizncq/ejercicio1/blob/master/assets/imgs/img.JPG)
